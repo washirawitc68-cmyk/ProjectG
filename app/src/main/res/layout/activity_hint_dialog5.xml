@@ -5,14 +5,6 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".HowToPlay">
-
-    <Button
-        android:id="@+id/button15"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Back"
-        tools:layout_editor_absoluteX="161dp"
-        tools:layout_editor_absoluteY="551dp" />
+    tools:context=".HintDialog5">
 
 </androidx.constraintlayout.widget.ConstraintLayout>
